@@ -1,3 +1,7 @@
 # INTEGRANTES
+
 <!-- aqui van los nombres de los integrantes -->
-TODO
+
+Req. 4 - Julian Pinto
+
+Req. 5 -Lucas Ruiz
